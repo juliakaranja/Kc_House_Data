@@ -6,7 +6,6 @@ The role as a data scientist is to review the King county sales housing data and
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [Author Info](#author-info)
