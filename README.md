@@ -51,6 +51,7 @@ In conclusion the real estate agency should review the sqft of the living space/
 
 Factors like bathrooms, bedrooms, having a waterfront and an excellent view have a positive effect on the house prices. Lastly, the house prices seemed to have increased in 2015 they should therefore consider inflation when setting house prices in the future
 
+[Tableau Dashboard](https://public.tableau.com/app/profile/julia.karanja/viz/KingCountyData_16642196200360/Dashboard1)
 
 ---
 
